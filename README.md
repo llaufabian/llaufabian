@@ -2,14 +2,14 @@
 
 ##
 
-- 📓 Aluna do SESI-PE, Cursando Desenvolvimento de Sistemas (2/3) pelo SENAI.
+- 📓 Aluna SESI-PE, Desenvolvimento de Sistemas (2/3) pelo SENAI.
 - 💜 Sou apaixonada por tecnologia, arte e gatos.
 - ⚙️ Estudando para Ciência da Computação...
 - 👾 Certificação em Modelagem 3D, AutoCAD e Robótica.
 - 🛰️ Fluente em Inglês & Espanhol
 
 <a href="#llaufabian-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=llaufabian&show_icons=true" align="right"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=llaufabian&show_icons=true" alt="llaufabian" align="right"/>
 
 ### Tecnologias
   
