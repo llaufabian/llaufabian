@@ -3,7 +3,7 @@
 ##
 
 <a href="#llaufabian-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=llaufabian&show_icons=true&theme=dracula" alt="llaufabian" align="right"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=llaufabian&show_icons=true&theme=material-palenight" alt="llaufabian" align="right"/>
 </a>
 
 - 📓 Aluna do SESI-PE, Cursando Desenvolvimento de Sistemas pelo SENAI.
