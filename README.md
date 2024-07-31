@@ -8,7 +8,7 @@
 - 🛰️ Certificação em Modelagem 3D, AutoCAD e Robótica.
 - 🌎 Fluente em Inglês & Espanhol
 
-### 🏆 Tecnologias
+### Tecnologias
   
 ##
 
