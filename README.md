@@ -4,7 +4,7 @@
 
 - 📓 Aluna do SESI-PE, Cursando Desenvolvimento de Sistemas (2/3) pelo SENAI.
 - 💜 Sou apaixonada por tecnologia, arte e gatos.
-- ⚙️ Estudando HTML, CSS e PHP...
+- ⚙️ Estudando para Ciência da Computação...
 - 👾 Certificação em Modelagem 3D, AutoCAD e Robótica.
 - 🛰️ Fluente em Inglês & Espanhol
 
