@@ -8,7 +8,8 @@
 - 👾 Certificação em Modelagem 3D, AutoCAD e Robótica.
 - 🛰️ Fluente em Inglês & Espanhol
 
-![Fabian GitHub stats](https://github-readme-stats.vercel.app/api?username=llaufabian&show_icons=true&theme=dracula)
+<a href="#llaufabian-title">
+  <img src="https://github-readme-stats.vercel.app/api?username=llaufabian&show_icons=true" align="right"/>
 
 ### Tecnologias
   
