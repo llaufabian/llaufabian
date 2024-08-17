@@ -11,7 +11,6 @@
 - ⚙️ Estudando para Ciência da Computação...
 - 👾 Certificação em Modelagem 3D, AutoCAD e Robótica.
 - 🛰️ Fluente em Inglês & Espanhol
-- 🎮 Entusiasta de Machine Learning e Big data!
 
 ##
 
