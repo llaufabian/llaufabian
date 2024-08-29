@@ -6,10 +6,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=llaufabian&show_icons=true&theme=material-palenight" alt="llaufabian" align="right"/>
 </a>
 
-- 📓 Aluna do SESI-PE, Cursando Desenvolvimento de Sistemas pelo SENAI.
-- 💜 Sou apaixonada por tecnologia, música e gatos.
+- 📓 Aluna do SESI-PE, Cursando Desenvolvimento de Sistemas pelo SENAI
+- 💜 Amo tudo aquilo que atice minha curiosidade
 - ⚙️ Estudando para Ciência da Computação...
-- 👾 Certificação em Modelagem 3D, AutoCAD e Robótica.
+- 👾 Certificação em Modelagem 3D, AutoCAD e Robótica
 - 🛰️ Fluente em Inglês & Espanhol
 
 ##
