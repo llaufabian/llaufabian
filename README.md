@@ -10,6 +10,7 @@
 - ⚙️ Futura estudante de Ciências da Computação.
 - 👾 Certificação em Modelagem 3D, AutoCAD e Robótica.
 - 🎙️ Mentora de Matemática para ensino fundamental.
+- 🐈‍⬛ Gosto de rock, arte, tecnologia e aprender!
 
 ##
 
