@@ -9,6 +9,7 @@
 - 📓 Aluna do SESI-PE, cursando Desenvolvimento de Sistemas pelo SENAI.
 - ⚙️ Futura estudante de Ciências da Computação.
 - 👾 Certificação em Modelagem 3D, AutoCAD e Robótica.
+- 🎙️ Mentora de Matemática para ensino fundamental.
 
 ##
 
