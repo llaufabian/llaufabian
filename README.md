@@ -1,7 +1,3 @@
-### Olá, Mundo! Eu sou Laura Fabian.
-
-##
-
 <a href="#llaufabian-title">
   <img src="https://github-readme-stats.vercel.app/api?username=llaufabian&show_icons=true&theme=material-palenight" alt="llaufabian" align="right"/>
 </a>
