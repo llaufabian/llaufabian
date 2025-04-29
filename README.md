@@ -2,8 +2,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=llaufabian&show_icons=true&theme=material-palenight" alt="llaufabian" align="right"/>
 </a>
 
-##
-
 - 📓 Aluna do SESI-PE, com curso técnico integrado de Desenvolvimento de Sistemas pelo SENAI.
 - ⚙️ Futura estudante de Ciências da Computação.
 - 👾 Certificação em Modelagem 3D, AutoCAD e Robótica.
